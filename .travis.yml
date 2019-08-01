@@ -1,2 +1,3 @@
 language: cpp
+before_script: pwd
 script: make
